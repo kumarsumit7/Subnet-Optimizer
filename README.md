@@ -380,10 +380,13 @@ It provides detailed information about every generated subnet and presents the r
 The project demonstrates the practical combination of Computer Networking + VLSM + IPv4 + JavaScript + Web Development.
 
 
+
 First View of Project - Subnet-Optimizer
 
 
+
 <img width="1895" height="967" alt="Screenshot 2026-09-19 191026" src="https://github.com/user-attachments/assets/38df9696-c18b-4696-8963-83fe5b0e9ac3" />
+
 
 
 ✍️ This project code is written by Sumit Kumar.
